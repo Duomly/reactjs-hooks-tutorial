@@ -67,5 +67,5 @@ body {
 }
 
 .visible {
-  display: none;
+  display: block;
 }
